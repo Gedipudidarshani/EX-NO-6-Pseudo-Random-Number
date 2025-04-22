@@ -34,10 +34,10 @@ printf("%d\n", random_number);
 }
 return 0;
 }
-
+```
 ## OUTPUT:
 ![image](https://github.com/user-attachments/assets/97e15b51-971c-4e54-93d0-980a638233fb)
 
-```
+
 ## RESULT:
 The above program executed successfully.
